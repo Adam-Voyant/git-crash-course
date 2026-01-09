@@ -3,3 +3,6 @@ Author: Adam
 
 Version 1:
 - Learning basic Git commands
+
+Version 2:
+- Added second section
