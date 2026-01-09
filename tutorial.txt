@@ -1,0 +1,5 @@
+Git Crash Course
+Author: Adam
+
+Version 1:
+- Learning basic Git commands
